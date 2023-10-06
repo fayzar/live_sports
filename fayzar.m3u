@@ -11,19 +11,19 @@ http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 ,T Sports-2
 http://plusbox.tv:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=4ca1dcd94f935b69d26f9b1c123cc5498bf087a4-1a96d947b55515d07c44ca4cca30b208-1696622148-1696611348
 #EXTINF:-1 ,T Sports-3
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696604409~exp=1696647609~acl=/*~data=45.61.146.183-WEB~hmac=a143f945dd14a2d1f7bbe13ae9df7aa7182656cc0a949382747842c11c635658
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,T Sports-4
 http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w1056796854_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTY2MTkyMDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NjYxMjIwMCZyYWl5YW50b2tlbmhhc2g9WVVVNFdJdWdWSEpaelRuMUdQQU5acU1YUkVjYnM4RXNuVjVPX3BGTEhoWT0=.m3u8
 
 
 #EXTINF:-1 ,Star Sports 1
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696604409~exp=1696647609~acl=/*~data=45.61.146.183-WEB~hmac=a143f945dd14a2d1f7bbe13ae9df7aa7182656cc0a949382747842c11c635658
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Sports 1 (ICC-1)
 http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 (ICC-2)
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
-#EXTINF:-1 ,Star Sports 1 (ICC-3)
-http://10.16.100.213:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1 ,Star Sports 1 
+
 #EXTINF:-1 ,Star Sports 1
 http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 
@@ -32,10 +32,9 @@ http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 
 
 #EXTINF:-1 ,PTV Sports
-https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696427937~exp=1696457937~acl=/Ptvsports/*~data=37.111.247.218-WEB~hmac=f1217a6b0b79d629fd3da2934f12d89605f71d59100090d8557f581a2cc37f26
-
-
-
+https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Willow HD
+https://tvs3.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,Star Select 1 (ICC-3)
