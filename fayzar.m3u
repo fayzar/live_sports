@@ -23,9 +23,9 @@ http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 (1)
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696614381~exp=1696657581~acl=/*~data=45.61.146.183-WEB~hmac=75ebe42209a606670fc79f427be9441f55833205736f144a618e35875a5e1725
-#EXTINF:-1 ,Star Sports 1 (3)
-http://tvedge2.dflix.live:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=2b2173202bcd3e9af2eccf54c2971b94aa393b29-b327db81c72271e7e4009b83b4e2cb55-1696628657-1696617857
 #EXTINF:-1 ,Star Sports 1 (2)
+http://tvedge2.dflix.live:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=2b2173202bcd3e9af2eccf54c2971b94aa393b29-b327db81c72271e7e4009b83b4e2cb55-1696628657-1696617857
+#EXTINF:-1 ,Star Sports 1 (3)
 http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 
 #EXTINF:-1 ,Star Sports 2
