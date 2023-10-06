@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,GTV-1
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+#EXTINF:-1 ,GTV-2
+http://tvedge2.dflix.live:8080/roarzone/1/tracks-v1a1/mono.m3u8?token=83474cf3ada93348e53d39dd3aec5c78d9b1b9c5-6d46cb5a3b20aa63fd8036000052920e-1696198283-1696187483
+#EXTINF:-1 ,GTV-3
+http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 , T Sports-1
+http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+#EXTINF:-1 , T Sports-2
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696604409~exp=1696647609~acl=/*~data=45.61.146.183-WEB~hmac=a143f945dd14a2d1f7bbe13ae9df7aa7182656cc0a949382747842c11c635658
+#EXTINF:-1 , T Sports-3
+http://plusbox.tv:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=2b60ded34b8d20570522da3dfa0328870f70bdc2-2b8ba5eec002c31e46224c0bc483b882-1696611528-1696600728
+#EXTINF:-1 , T Sports-4
+http://plusbox.tv:8080/WorldCup2023/tracks-v1a1/mono.m3u8?token=bd2b6818260c302af04b1824305bf755de970873-d5b6b583f53ff6c1daee3199a944216d-1696521287-1696510487
+#EXTINF:-1 ,Star Sports 1
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696186515~exp=1696229715~acl=/*~data=45.61.146.183-WEB~hmac=c96856f21c4b4cbbe8f272a0a309c3f9f754dd5b4a936106bd9556601f4efca5
+#EXTINF:-1 ,Star Sports 1 (ICC-1)
+http://10.16.100.206:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1 ,Star Sports 1 (ICC-2)
+http://10.16.100.212:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1 ,Star Sports 1 (ICC-3)
+http://10.16.100.213:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,Star Sports 2
+http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,Star Select 1 (ICC-3)
+http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
+#EXTINF:-1 ,Star Select 2 (ICC-3)
+http://10.16.100.212:8080/hls/STARSportsSelect2HD.m3u8
+#EXTINF:-1 ,Sports_18 (ICC-3)
+http://10.16.100.212:8080/hls/sports18.m3u8
+#EXTINF:-1 ,Sports_18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+#EXTINF:-1 ,Astro Cricket (Durbin)
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Astro Cricket
+http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=98dad83091839f0b54612de20e0c7b3eadd4f062-3b7a83265b39024a037ea9aea73f49f7-1694789105-1694778305
+#EXTINF:-1 ,TNT sports 1
+https://nes05.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=196155320036&id=114607&pk=d1b02d9156db5206b359566b7643c50b7ebec9eab639bdd5232929ce0127dde142c5d07238242f54628e7b765d33683b8a8fb7e981e7d569cbbe0e24711c5ae1
+#EXTINF:-1 ,Bein Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 ,Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 ,Sports 18 HI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 ,Sports 18
+https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
+#EXTINF:-1 ,Sports 18
+http://freecatv-manik.xyz/Sports18index.m3u8
+#EXTINF:-1 ,Ten Sports
+http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
+#EXTINF:-1 ,Sky Sports Cricket
+https://nes03.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=196321185006&id=114607&pk=d1b02d9156db5206b359566b7643c50b7ebec9eab639bdd5232929ce0127dde1e6d0f7bf405b07753ded504e57f4a50cd556119119daedf64e1c9af9529057e2
+#EXTINF:-1 ,ATNNAT
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 ,Sports e1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,Sports e2
+https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1 ,Sports e3
+https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1 ,Sports e4
+https://sportsleading.online/live/stream_e4.m3u8
+#EXTINF:-1 ,Sports e5
+https://sportsleading.online/live/stream_e5.m3u8
+#EXTINF:-1 ,Sports e6
+https://sportsleading.online/live/stream_e6.m3u8
+#EXTINF:-1 ,Sports e7
+https://sportsleading.online/live/stream_e7.m3u8
+#EXTINF:-1 ,Sports 3
+https://sportsleading.online/live/stream_3.m3u8
+#EXTINF:-1 ,Sports 6
+https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 ,Sports 7
+https://sportsleading.online/live/stream_7.m3u8
+#EXTINF:-1 ,Sports 8
+https://sportsleading.online/live/stream_8.m3u8
+#EXTINF:-1 ,Sports 9
+https://sportsleading.online/live/stream_9.m3u8
