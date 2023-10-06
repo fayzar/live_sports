@@ -5,14 +5,16 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 http://tvedge2.dflix.live:8080/roarzone/1/tracks-v1a1/mono.m3u8?token=83474cf3ada93348e53d39dd3aec5c78d9b1b9c5-6d46cb5a3b20aa63fd8036000052920e-1696198283-1696187483
 #EXTINF:-1 ,GTV-3
 http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+
 #EXTINF:-1 , T Sports-1
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 , T Sports-2
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696604409~exp=1696647609~acl=/*~data=45.61.146.183-WEB~hmac=a143f945dd14a2d1f7bbe13ae9df7aa7182656cc0a949382747842c11c635658
+http://plusbox.tv:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=4ca1dcd94f935b69d26f9b1c123cc5498bf087a4-1a96d947b55515d07c44ca4cca30b208-1696622148-1696611348
 #EXTINF:-1 , T Sports-3
-http://plusbox.tv:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=2b60ded34b8d20570522da3dfa0328870f70bdc2-2b8ba5eec002c31e46224c0bc483b882-1696611528-1696600728
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696604409~exp=1696647609~acl=/*~data=45.61.146.183-WEB~hmac=a143f945dd14a2d1f7bbe13ae9df7aa7182656cc0a949382747842c11c635658
+
 #EXTINF:-1 , T Sports-4
-http://plusbox.tv:8080/WorldCup2023/tracks-v1a1/mono.m3u8?token=bd2b6818260c302af04b1824305bf755de970873-d5b6b583f53ff6c1daee3199a944216d-1696521287-1696510487
+
 #EXTINF:-1 ,Star Sports 1
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696186515~exp=1696229715~acl=/*~data=45.61.146.183-WEB~hmac=c96856f21c4b4cbbe8f272a0a309c3f9f754dd5b4a936106bd9556601f4efca5
 #EXTINF:-1 ,Star Sports 1 (ICC-1)
