@@ -1,21 +1,23 @@
 #EXTM3U
 #EXTINF:-1 ,T Sports-1
-https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696670757~exp=1696713957~acl=/*~data=45.61.146.183-WEB~hmac=9fe5e6ab2ade9264b9c59a99ecc2d7407d793ff34783baa5adf1ab9988c89523
 #EXTINF:-1 ,T Sports-2
 http://plusbox.tv:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=4ca1dcd94f935b69d26f9b1c123cc5498bf087a4-1a96d947b55515d07c44ca4cca30b208-1696622148-1696611348
 #EXTINF:-1 ,T Sports-3
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696670757~exp=1696713957~acl=/*~data=45.61.146.183-WEB~hmac=9fe5e6ab2ade9264b9c59a99ecc2d7407d793ff34783baa5adf1ab9988c89523
+https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,T Sports-4
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 ,T Sports-5
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 
 #EXTINF:-1 ,GTV-1
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st%3D1696667867%7Eexp%3D1696697867%7Eacl%3D%2Fgtv%2F*%7Edata%3D113.11.109.101-WEB%7Ehmac%3D778986b3397fd40a52eb6e5921814de4eacfeecbfd12b04d23e68c89c74bd798
 #EXTINF:-1 ,GTV-2
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 ,GTV-3
 http://plusbox.tv:8080/WorldCupSD2/tracks-v1a1/mono.m3u8?token=5279e1311e15caf65133504d06b6f02c53051333-d72e729f5ac66fabc8a9717d2f612f98-1696622478-1696611678
+#EXTINF:-1 ,GTV-4
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
 
 #EXTINF:-1 ,Star Sports 1 (ICC-1)
 http://10.16.100.206:8080/hls/StarSports1HD.m3u8
