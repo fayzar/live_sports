@@ -16,6 +16,9 @@ https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696427937~exp=16964
 #EXTINF:-1 ,GTV-4
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
 
+#EXTINF:-1 ,Sky Sports Crcket
+https://103.lfjustfor.xyz:8088/stream/lizata1/playlist.m3u8?vidictid=196387793457&id=43662&pk=f7aade94679050c6b6822394f4a3ddd174c7de30d1acc2a734ef1dd02f215c6a
+
 #EXTINF:-1 ,Star Sports 1 (1)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 ,Star Sports 1 (ICC-1)
