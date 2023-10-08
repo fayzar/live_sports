@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,T Sports
+http://tv.iplex.live:9191/t-sports/index.fmp4.m3u8?token=30fe916a87a5b40bc0e65a58a3e15763127e2ab0-61371958a963cc3cea6c487974cc38ee-1696769762-1696766162
 #EXTINF:-1 ,T Sports-1
 http://stream.midiplexhd.com:1936/live/sky_12/playlist.m3u8?raiyantokenendtime=1696765300&raiyantokenstarttime=1696758300&raiyantokenhash=l1uwl90ahXaMAlNDsqYWsFK7fcXOui5XBgYnGE9TGIs=
 #EXTINF:-1 ,T Sports-2
