@@ -7,7 +7,6 @@ http://chanel.dekhaott.com/ICCWORLDCUP/tracks-v1/index.fmp4.m3u8?token=7du8JE0_2
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,T Sports-5
 
-
 #EXTINF:-1 ,GTV-1
 http://103.175.242.10:8080/live/gtv/index.m3u8
 #EXTINF:-1 ,GTV-2
@@ -16,8 +15,6 @@ http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696427937~exp=1696457937~acl=/Ptvsports/*~data=37.111.247.218-WEB~hmac=f1217a6b0b79d629fd3da2934f12d89605f71d59100090d8557f581a2cc37f26
 #EXTINF:-1 ,GTV-4
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
-
-
 
 #EXTINF:-1 ,Star Sports 1 (1)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
