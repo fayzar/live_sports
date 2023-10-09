@@ -3,15 +3,13 @@
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696872846~exp=1696916046~acl=/*~data=45.61.146.183-WEB~hmac=3c85509e9f3f2245a83330746ef72d6a6a77679d863a29c2982c39d3183119f6
 #EXTINF:-1 ,T Sports-1
 http://tv.iplex.live:9191/t-sports/index.fmp4.m3u8?token=de3b3ce23ac98e82875a576876d78c59e05740ab-76b80d529b97e316c0c2d346deedb0ab-1696877692-1696874092
-#EXTINF:-1 ,T Sports-1
-http://stream.midiplexhd.com:1936/live/sky_12/playlist.m3u8?raiyantokenendtime=1696765300&raiyantokenstarttime=1696758300&raiyantokenhash=l1uwl90ahXaMAlNDsqYWsFK7fcXOui5XBgYnGE9TGIs=
 #EXTINF:-1 ,T Sports-2
 http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
 #EXTINF:-1 ,T Sports-3
 http://chanel.dekhaott.com/ICCWORLDCUP/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,T Sports-4
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
-#EXTINF:-1 ,T Sports-4
+#EXTINF:-1 ,T Sports-5
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:-1 ,GTV
@@ -21,7 +19,7 @@ http://103.175.242.10:8080/live/gtv/index.m3u8
 #EXTINF:-1 ,GTV-2
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 ,GTV-3
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696427937~exp=1696457937~acl=/Ptvsports/*~data=37.111.247.218-WEB~hmac=f1217a6b0b79d629fd3da2934f12d89605f71d59100090d8557f581a2cc37f26
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696872846~exp=1696916046~acl=/*~data=45.61.146.183-WEB~hmac=3c85509e9f3f2245a83330746ef72d6a6a77679d863a29c2982c39d3183119f6
 #EXTINF:-1 ,GTV-4
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 
@@ -31,29 +29,18 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.
 http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 (ICC-2)
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://tvedge2.dflix.live:8080/roarzone/25/tracks-v1a1/mono.m3u8?token=2b2173202bcd3e9af2eccf54c2971b94aa393b29-b327db81c72271e7e4009b83b4e2cb55-1696628657-1696617857
 #EXTINF:-1 ,Star Sports 1 
-http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696874940~exp=1696918140~acl=/*~data=45.61.146.183-WEB~hmac=be725d007f2c3ec080185f61908f43ea64066434db56785fac4f252cbd824790
+#EXTINF:-1 ,Star Sports 1 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 ,Star Sports 1 
-https://gobezwoo.xyz/chunklist/hlsch24.m3u8
-#EXTINF:-1 ,Star Sports 1 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696874940~exp=1696918140~acl=/*~data=45.61.146.183-WEB~hmac=be725d007f2c3ec080185f61908f43ea64066434db56785fac4f252cbd824790
 
-#EXTINF:-1 ,Star Sports 2
-http://tvedge2.dflix.live:8080/roarzone/26/tracks-v1a1/mono.m3u8?token=5b53f48aa4ff1f11b1e3f17f7780989807d7e4f7-dee894ac9ab38be532b91a51bcd4349d-1696628578-1696617778
 #EXTINF:-1 ,Star Sports 2
 http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 
 #EXTINF:-1 ,PTV Sports
-https://tvs3.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696874930~exp=1696918130~acl=/*~data=45.61.146.183-WEB~hmac=10338e4f6f3d48d6c1a292e321bd2b0d6a98caa0e8a70fc762aaa38b303741b6
-#EXTINF:-1 ,Willow HD
-https://tvs3.aynaott.com/willowhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sky Sports Cricket
-https://103.lfjustfor.xyz:8088/stream/lizata1/playlist.m3u8?vidictid=196387793457&id=43662&pk=f7aade94679050c6b6822394f4a3ddd174c7de30d1acc2a734ef1dd02f215c6a
 #EXTINF:-1 ,Sky Sports Cricket
 https://nes03.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=196321185006&id=114607&pk=d1b02d9156db5206b359566b7643c50b7ebec9eab639bdd5232929ce0127dde1e6d0f7bf405b07753ded504e57f4a50cd556119119daedf64e1c9af9529057e2
 
@@ -66,10 +53,6 @@ https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 ,Sports e3
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1 ,Star Select 1 (ICC-3)
-http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
-#EXTINF:-1 ,Star Select 2 (ICC-3)
-http://10.16.100.212:8080/hls/STARSportsSelect2HD.m3u8
 #EXTINF:-1 ,Sports_18 (ICC-3)
 http://10.16.100.212:8080/hls/sports18.m3u8
 #EXTINF:-1 ,Sports_18
