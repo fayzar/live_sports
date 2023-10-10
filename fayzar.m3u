@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696872846~exp=1696916046~acl=/*~data=45.61.146.183-WEB~hmac=3c85509e9f3f2245a83330746ef72d6a6a77679d863a29c2982c39d3183119f6
-#EXTINF:-1 ,T Sports-1
-http://tv.iplex.live:9191/t-sports/index.fmp4.m3u8?token=de3b3ce23ac98e82875a576876d78c59e05740ab-76b80d529b97e316c0c2d346deedb0ab-1696877692-1696874092
-#EXTINF:-1 ,T Sports-2
-http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696905467~exp=1696948667~acl=/*~data=45.61.146.183-WEB~hmac=c4dcf251e1fcfe14cbad617ecf14686df0883f988309e16e269366a3c926e1b2
 #EXTINF:-1 ,T Sports-3
 http://chanel.dekhaott.com/ICCWORLDCUP/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,T Sports-4
@@ -19,8 +15,8 @@ http://103.175.242.10:8080/live/gtv/index.m3u8
 #EXTINF:-1 ,GTV-2
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 #EXTINF:-1 ,GTV-3
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696872846~exp=1696916046~acl=/*~data=45.61.146.183-WEB~hmac=3c85509e9f3f2245a83330746ef72d6a6a77679d863a29c2982c39d3183119f6
-#EXTINF:-1 ,GTV-4
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696905467~exp=1696948667~acl=/*~data=45.61.146.183-WEB~hmac=c4dcf251e1fcfe14cbad617ecf14686df0883f988309e16e269366a3c926e1b2
+#EXTINF:-1 ,T Sports-3
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 
 #EXTINF:-1 ,Star Sports 1 
@@ -38,6 +34,8 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Star Sports 1 
 https://lokiiptv.tv/crichdsports/master.m3u8/?id=starhindi
 
+#EXTINF:-1 ,A sports
+http://15.1.1.38:8082/6LIVE/tracks-v1a1/mono.m3u8?token=ddb12b8127174f8749b4d88d73adab746511bd10-2324075084e8abda799ddf94b003b1d8-1696915712-1696904912
 #EXTINF:-1 ,PTV Sports
 https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696874930~exp=1696918130~acl=/*~data=45.61.146.183-WEB~hmac=10338e4f6f3d48d6c1a292e321bd2b0d6a98caa0e8a70fc762aaa38b303741b6
 #EXTINF:-1 ,Willow C
