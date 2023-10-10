@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696905467~exp=1696948667~acl=/*~data=45.61.146.183-WEB~hmac=c4dcf251e1fcfe14cbad617ecf14686df0883f988309e16e269366a3c926e1b2
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696922306~exp=1696965506~acl=/*~data=45.61.146.183-WEB~hmac=5863900151e570394767e2eb21bef077983e5c2930c3d02ff493bf9e1345da58
 #EXTINF:-1 ,T Sports-2
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1 ,T Sports-3
@@ -11,7 +11,7 @@ http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:-1 ,GTV-1
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696905467~exp=1696948667~acl=/*~data=45.61.146.183-WEB~hmac=c4dcf251e1fcfe14cbad617ecf14686df0883f988309e16e269366a3c926e1b2
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1696922306~exp=1696965506~acl=/*~data=45.61.146.183-WEB~hmac=5863900151e570394767e2eb21bef077983e5c2930c3d02ff493bf9e1345da58
 #EXTINF:-1 ,GTV-2
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 #EXTINF:-1 ,GTV-3
@@ -28,7 +28,7 @@ http://10.16.100.206:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 (ICC-2)
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696874940~exp=1696918140~acl=/*~data=45.61.146.183-WEB~hmac=be725d007f2c3ec080185f61908f43ea64066434db56785fac4f252cbd824790
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696922306~exp=1696965506~acl=/*~data=45.61.146.183-WEB~hmac=5863900151e570394767e2eb21bef077983e5c2930c3d02ff493bf9e1345da58
 #EXTINF:-1 ,Star Sports 1 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Star Sports 1 
@@ -37,8 +37,8 @@ https://lokiiptv.tv/crichdsports/master.m3u8/?id=starhindi
 #EXTINF:-1 ,A sports
 http://15.1.1.38:8082/6LIVE/tracks-v1a1/mono.m3u8?token=ddb12b8127174f8749b4d88d73adab746511bd10-2324075084e8abda799ddf94b003b1d8-1696915712-1696904912
 #EXTINF:-1 ,PTV Sports
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696905467~exp=1696948667~acl=/*~data=45.61.146.183-WEB~hmac=c4dcf251e1fcfe14cbad617ecf14686df0883f988309e16e269366a3c926e1b2
-#EXTINF:-1 ,Willow C
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1696922306~exp=1696965506~acl=/*~data=45.61.146.183-WEB~hmac=5863900151e570394767e2eb21bef077983e5c2930c3d02ff493bf9e1345da58
+#EXTINF:-1 ,Willow
 https://lokiiptv.tv/crichdsports/master.m3u8/?id=willowusa
 #EXTINF:-1 ,Sky Sports Cricket
 https://nes03.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=196321185006&id=114607&pk=d1b02d9156db5206b359566b7643c50b7ebec9eab639bdd5232929ce0127dde1e6d0f7bf405b07753ded504e57f4a50cd556119119daedf64e1c9af9529057e2
