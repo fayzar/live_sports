@@ -24,8 +24,6 @@ http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 ,Star Sports 1 
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1696874940~exp=1696918140~acl=/*~data=45.61.146.183-WEB~hmac=be725d007f2c3ec080185f61908f43ea64066434db56785fac4f252cbd824790
 #EXTINF:-1 ,Star Sports 1 
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star Sports 1 
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Star Sports 1 
 https://lokiiptv.tv/crichdsports/master.m3u8/?id=starhindi
