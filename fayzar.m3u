@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,T Sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696922306~exp=1696965506~acl=/*~data=45.61.146.183-WEB~hmac=5863900151e570394767e2eb21bef077983e5c2930c3d02ff493bf9e1345da58
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1697027339~exp=1697070539~acl=/*~data=45.61.146.183-WEB~hmac=931d2ce82bfac1547bf025de3596e2f5fbbf673cfb0c85404d9a7b637a853151
 #EXTINF:-1 ,T Sports-2
 https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1 ,T Sports-3
