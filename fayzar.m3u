@@ -1,28 +1,32 @@
 #EXTM3U
-#EXTINF:-1 ,T Sports
+#EXTINF:-1 ,T Sports-1
 http://stream.midiplexhd.com:1936/live/sky_12/chunklist_w1583400886_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTcxOTU5MjAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzE4ODkyMCZyYWl5YW50b2tlbmhhc2g9YWh4aXZ0UHhzU0hkaVcxOWVWdUJhMlhJOWdlWnA0bFJXZEdYMTU5TVpFbz0=.m3u8
-#EXTINF:-1 ,T Sports1
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1697188607~exp=1697231807~acl=/*~data=45.61.146.183-WEB~hmac=e4a9f8b19c354d04bc6ed2a7ec49da347128aecbcbe94212aaff7888c892732f
 #EXTINF:-1 ,T Sports-2
-https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1697188607~exp=1697231807~acl=/*~data=45.61.146.183-WEB~hmac=e4a9f8b19c354d04bc6ed2a7ec49da347128aecbcbe94212aaff7888c892732f
 #EXTINF:-1 ,T Sports-3
-http://chanel.dekhaott.com/ICCWORLDCUP/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+http://iptv.mcnbd.com:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=8a6e255dbbc80dc041f3439849f371d88d3ea953-3af1907c1040d92a2a0697cf34736182-1697199728-1697188928
 #EXTINF:-1 ,T Sports-4
-http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+https://ott.sonyplex.com:444/play/EDI0B4ME7MUUyw-g59yLMwDr04b0BMc4QbtwsxKacAQ/m3u8
 #EXTINF:-1 ,T Sports-5
+http://chanel.dekhaott.com/ICCWORLDCUP/index.fmp4.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,T Sports-6
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,T Sports-7
 http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
 
 #EXTINF:-1 ,GTV-1
-http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w372004801_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTcxOTUxNDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzE4ODE0MCZyYWl5YW50b2tlbmhhc2g9MWV2cHhhaWZJZmJPaHdsR2NNNjgyMTY2U0JqNjJ4RTUzN0lKRzFaYzRCbz0=.m3u8
-#EXTINF:-1 ,GTV-1
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1697188607~exp=1697231807~acl=/*~data=45.61.146.183-WEB~hmac=e4a9f8b19c354d04bc6ed2a7ec49da347128aecbcbe94212aaff7888c892732f
+http://iptv.mcnbd.com:8080/WorldCup2023HD/tracks-v1a1/mono.m3u8?token=2a4c966a2df1bdf5fb999cf30a4a0d4de10d0dab-a51886fb460fa75d551502e6653a4cab-1697199583-1697188783
 #EXTINF:-1 ,GTV-2
-https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
+http://stream.midiplexhd.com:1936/live/sky_4/chunklist_w372004801_tkcmFpeWFudG9rZW5lbmR0aW1lPTE2OTcxOTUxNDAmcmFpeWFudG9rZW5zdGFydHRpbWU9MTY5NzE4ODE0MCZyYWl5YW50b2tlbmhhc2g9MWV2cHhhaWZJZmJPaHdsR2NNNjgyMTY2U0JqNjJ4RTUzN0lKRzFaYzRCbz0=.m3u8
 #EXTINF:-1 ,GTV-3
-http://103.175.242.10:8080/live/gtv/index.m3u8
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8?hdnts=st=1697188607~exp=1697231807~acl=/*~data=45.61.146.183-WEB~hmac=e4a9f8b19c354d04bc6ed2a7ec49da347128aecbcbe94212aaff7888c892732f
 #EXTINF:-1 ,GTV-4
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 #EXTINF:-1 ,GTV-5
+http://103.175.242.10:8080/live/gtv/index.m3u8
+#EXTINF:-1 ,GTV-6
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+#EXTINF:-1 ,GTV-7
 http://103.175.242.10:8080/live/gtv/index.m3u8
 
 #EXTINF:-1 ,Star Sports 1 
